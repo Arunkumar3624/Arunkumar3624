@@ -1,4 +1,4 @@
-<img src="JS-by-SoyHorizonte.gif" width="700" height="600" />
+<img src="JS-by-SoyHorizonte.gif" width="900" height="600" />
 👋 Hi, I'm Arunkumar
 Full-Stack Developer | Problem Solver | Lifelong Learner
 
