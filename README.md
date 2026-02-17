@@ -1,3 +1,4 @@
+<img src="coding.gif" width="500" />
 👋 Hi, I'm Arunkumar
 Full-Stack Developer | Problem Solver | Lifelong Learner
 
