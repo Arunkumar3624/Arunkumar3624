@@ -1,5 +1,5 @@
 👋 Hi, I'm Arunkumar
-🚀 Full-Stack Developer | Problem Solver | Lifelong Learner
+Full-Stack Developer | Problem Solver | Lifelong Learner
 
 Arunkumar – Full-Stack Developer (React, Node, Django,Python/Java)
 
@@ -15,7 +15,7 @@ I use Git, Postman, and Docker to build, test, and ship applications in a struct
 My goal is to work on real production systems where performance, scalability, and clean design matter
 
 
-🧠 What I’m Learning
+How I’m Learning
 
 I actively work on improving my skills in:
 Data Structures & Algorithms
@@ -26,7 +26,7 @@ Cloud, Docker & DevOps workflows
 
 I believe learning never stops, and every project I build is an opportunity to get better.
 
-🛠 Tech Stack
+Tech Stack
 
 Languages & Core
 JavaScript, TypeScript, Python, Java
@@ -49,7 +49,7 @@ Postman
 Docker
 VS Code
 
-💼 What I Build
+What I Build
 
 I focus on developing:
 Scalable Web Applications
@@ -61,7 +61,7 @@ Every project I create follows industry standards for clean architecture, mainta
 Build production-ready platforms
 able to Work on large-scale systems
 
-📫 Let’s Connect
+Let’s Connect
 
 If you’re interested in collaborating, learning together, or building something meaningful — feel free to connect with me!
 
