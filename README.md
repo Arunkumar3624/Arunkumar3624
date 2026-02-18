@@ -57,7 +57,7 @@ These are **engineered systems**, not templates.
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" />
+<img src="https://skillicons.dev/icons?i=js,python,java,html,css" />
 </p>
 
 ### Frontend
@@ -72,7 +72,7 @@ These are **engineered systems**, not templates.
 
 ### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### Tools & DevOps
