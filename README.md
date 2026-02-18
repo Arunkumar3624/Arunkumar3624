@@ -1,70 +1,90 @@
-<img src="JS-by-SoyHorizonte.gif" width="500" height="600" align="right"  />
-<img src="gitimg.gif" width="500" height="600" align="right"  />
+<!-- HERO SECTION -->
+<img src="JS-by-SoyHorizonte.gif" width="420" align="right" />
+<img src="gitimg.gif" width="420" align="right" />
 
-👋 Hi, I'm Arunkumar
-Full-Stack Developer | Problem Solver | Lifelong Learner
+<h1 align="left">👋 Hi, I'm Arunkumar</h1>
+<h3 align="left">Full-Stack Developer • React • Node • Django • System-Focused Engineer</h3>
 
-Arunkumar – Full-Stack Developer (React, Node, Django,Python/Java)
+<p align="left">
+I build <b>production-grade web applications</b> with clean architecture, scalable APIs, and performance-driven UIs.  
+My focus is not demos — it's <b>systems that behave correctly under real users and real data.</b>
+</p>
 
-I build production-grade web applications focused on performance, reliability, and real-world usage. 
-My work includes designing REST APIs, implementing authentication systems, and developing scalable frontend interfaces used in learning and content-driven platforms.
+---
 
-I have built and deployed full-stack systems such as a Learning Management System and a digital notes platform, implementing role-based access control, secure authentication, and database-driven content management. 
-My projects are designed with clean architecture, modular APIs, and maintainable codebases rather than one-off demos.
+## ⚙️ What I Actually Do
+- Design & build **REST APIs** with authentication and RBAC  
+- Build **React / Next.js frontends** optimized for speed and maintainability  
+- Architect **backend services** using Node.js & Django  
+- Design **relational & NoSQL databases** for real-world data models  
+- Containerize & ship apps using **Docker + Git workflows**
 
-I specialize in JavaScript/TypeScript on the frontend with React and Next.js, and backend systems using Node.js and Django, backed by MySQL and PostgreSQL. 
-I use Git, Postman, and Docker to build, test, and ship applications in a structured, professional workflow.
+---
 
-My goal is to work on real production systems where performance, scalability, and clean design matter
+## 🧠 Systems I’ve Built
+- 📚 **Learning Management System** – Role-based access, content publishing, secure auth  
+- 📝 **Digital Notes Platform** – API-driven backend with user permissions  
+- 🔐 **Authentication Systems** – JWT, sessions, protected routes, admin roles  
+- ⚡ **SaaS-style Web Apps** – modular services, clean data models, scalable APIs  
 
+These are **not templates** — they are engineered systems.
 
-How I’m Learning
+---
 
-I actively work on improving my skills in:
-Data Structures & Algorithms
-Backend Architecture & APIs
-Frontend Performance & UI Engineering
-Database Design & Optimization
-Cloud, Docker & DevOps workflows
+## 🧰 Tech Stack
 
-I believe learning never stops, and every project I build is an opportunity to get better.
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" />
+</p>
 
-Tech Stack
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" />
+</p>
 
-Languages & Core
-JavaScript, TypeScript, Python, Java
-HTML, CSS
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,spring" />
+</p>
 
-Frontend
-React.js, Next.js
-Tailwind CSS, Bootstrap
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
-Backend
-Node.js, Express.js
-Django, Spring Boot
+### Tools & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode" />
+</p>
 
-Database
-MySQL, PostgreSQL, MongoDB
+---
 
-Tools
-Git & GitHub
-Postman
-Docker
-VS Code
+## 🧪 How I Improve
+I don’t “learn everything” — I sharpen what matters:
+- Data Structures & Algorithms  
+- Backend system design  
+- Frontend performance & rendering  
+- Database modeling & query optimization  
+- Dockerized development workflows  
 
-What I Build
+Every project is built to get **closer to production-grade engineering.**
 
-I focus on developing:
-Scalable Web Applications
-Learning Management Systems
-RESTful APIs
-Authentication & Role-Based Systems
-Real-world SaaS-style projects
-Every project I create follows industry standards for clean architecture, maintainability, and performance.
-Build production-ready platforms
-able to Work on large-scale systems
+---
 
-Let’s Connect
+## 🎯 My Direction
+- Build **large-scale systems**
+- Work on **real SaaS platforms**
+- Contribute to **serious engineering teams**
+- Write code that survives **real users and real traffic**
 
-If you’re interested in collaborating, learning together, or building something meaningful — feel free to connect with me!
+---
 
+## 📫 Let’s Connect
+If you build serious software and care about quality — we’ll get along.
+
+<p>
+<a href="https://github.com/Arunkumar3624">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
