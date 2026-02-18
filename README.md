@@ -1,37 +1,59 @@
-<!-- HERO SECTION -->
-<img src="JS-by-SoyHorizonte.gif" width="420" align="right" />
-<img src="gitimg.gif" width="420" align="right" />
+<!-- ========================= HERO ========================= -->
 
-<h1 align="left">👋 Hi, I'm Arunkumar</h1>
-<h3 align="left">Full-Stack Developer • React • Node • Django • System-Focused Engineer</h3>
+<div align="center">
 
-<p align="left">
-I build <b>production-grade web applications</b> with clean architecture, scalable APIs, and performance-driven UIs.  
-My focus is not demos — it's <b>systems that behave correctly under real users and real data.</b>
+<img src="JS-by-SoyHorizonte.gif" width="700"/>
+
+<h1>Hi, I’m Arunkumar 👋</h1>
+<h3>Full-Stack Engineer • React • Node • Django • System-Focused</h3>
+
+<p>
+I build <b>production-grade web systems</b> with clean architecture, scalable APIs, and performance-driven UIs.  
+I don’t build demos — I build software that survives real users and real data.
 </p>
 
----
-
-## ⚙️ What I Actually Do
-- Design & build **REST APIs** with authentication and RBAC  
-- Build **React / Next.js frontends** optimized for speed and maintainability  
-- Architect **backend services** using Node.js & Django  
-- Design **relational & NoSQL databases** for real-world data models  
-- Containerize & ship apps using **Docker + Git workflows**
+</div>
 
 ---
 
-## 🧠 Systems I’ve Built
-- 📚 **Learning Management System** – Role-based access, content publishing, secure auth  
-- 📝 **Digital Notes Platform** – API-driven backend with user permissions  
-- 🔐 **Authentication Systems** – JWT, sessions, protected routes, admin roles  
-- ⚡ **SaaS-style Web Apps** – modular services, clean data models, scalable APIs  
+<!-- ========================= ACTION STRIP ========================= -->
 
-These are **not templates** — they are engineered systems.
+<div align="center">
+
+<a href="https://github.com/Arunkumar3624">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://img.shields.io/badge/Full--Stack-Engineer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System--Driven-Architecture-purple?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 What I Actually Do
+- Design & build REST APIs with authentication & RBAC  
+- Build React / Next.js frontends optimized for speed & maintainability  
+- Architect backend services using Node.js & Django  
+- Design SQL & NoSQL databases for real-world data models  
+- Ship apps using Docker + Git workflows  
+
+---
+
+## 🏗️ Systems I’ve Built
+
+| System | What it does |
+|-------|--------------|
+| 📚 **Learning Management System** | Role-based access, content publishing, secure authentication |
+| 📝 **Digital Notes Platform** | API-driven backend with user permissions |
+| 🔐 **Authentication Systems** | JWT, sessions, protected routes, admin roles |
+| ⚡ **SaaS-style Web Apps** | Modular services, clean data models, scalable APIs |
+
+These are **engineered systems**, not templates.
+
+---
+
+## 🧰 Technology Stack
 
 ### Languages
 <p>
@@ -60,31 +82,33 @@ These are **not templates** — they are engineered systems.
 
 ---
 
-## 🧪 How I Improve
-I don’t “learn everything” — I sharpen what matters:
+## 🚀 How I Improve
 - Data Structures & Algorithms  
-- Backend system design  
+- Backend architecture & system design  
 - Frontend performance & rendering  
 - Database modeling & query optimization  
 - Dockerized development workflows  
 
-Every project is built to get **closer to production-grade engineering.**
+Every project moves me closer to **production-grade engineering**.
 
 ---
 
-## 🎯 My Direction
+## 🎯 Career Direction
 - Build **large-scale systems**
 - Work on **real SaaS platforms**
-- Contribute to **serious engineering teams**
-- Write code that survives **real users and real traffic**
+- Join **high-impact engineering teams**
+- Write code that survives **real traffic & real users**
 
 ---
 
-## 📫 Let’s Connect
-If you build serious software and care about quality — we’ll get along.
+<div align="center">
 
-<p>
+<h3>Let’s Build Real Software</h3>
+
+If you care about performance, systems, and clean engineering — we’ll get along.
+
 <a href="https://github.com/Arunkumar3624">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20My%20Work-000000?style=for-the-badge&logo=github"/>
 </a>
-</p>
+
+</div>
